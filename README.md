@@ -1,6 +1,6 @@
 # WorkManagerWidgetUpdateTest
 
-This is compilable project illustrating behavior of Work Magager that update from Work Manager causes update of the widget every 5 or 10 seconds. 
+This is compilable project illustrating behavior of Work Magager that update from Work Manager causes update of the widget every a few seconds. 
 
 There is super simple function [updateWidget](app/src/main/java/com/example/workmanagerwidgets/UpdateWidget.kt) that updates number of calls on widget every time widget update is called.
 
